@@ -1,7 +1,7 @@
 - !!! rearrange flowchart since blueprint generator isn't a dependency of the other stuff
 - Write pseudocode for blueprint generator
 - Write pseudocode for real time searcher
-- General flow for components, back to front
+- General flow for components, top down, back to front
 
 
 General Flow reference:
